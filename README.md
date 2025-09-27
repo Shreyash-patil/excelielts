@@ -40,8 +40,8 @@ You need **Node.js** (v18+) and **npm** or **Yarn** installed.
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [YOUR_REPOSITORY_LINK_HERE]
-    cd ExcelIELTS
+    git clone https://github.com/Shreyash-patil/excelielts.git
+    cd excelielts
     ```
 
 2.  **Install Dependencies:**
